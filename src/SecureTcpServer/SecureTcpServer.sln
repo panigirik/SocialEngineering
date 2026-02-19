@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureTcpServer", "SecureTcpServer\SecureTcpServer.csproj", "{09C69B33-89D3-4826-8798-B5C352743B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureTcpClient", "SecureTcpClient\SecureTcpClient.csproj", "{EFC146E1-4F5B-4F92-91FD-B91871A09EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09C69B33-89D3-4826-8798-B5C352743B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C69B33-89D3-4826-8798-B5C352743B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C69B33-89D3-4826-8798-B5C352743B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C69B33-89D3-4826-8798-B5C352743B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC146E1-4F5B-4F92-91FD-B91871A09EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC146E1-4F5B-4F92-91FD-B91871A09EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC146E1-4F5B-4F92-91FD-B91871A09EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC146E1-4F5B-4F92-91FD-B91871A09EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

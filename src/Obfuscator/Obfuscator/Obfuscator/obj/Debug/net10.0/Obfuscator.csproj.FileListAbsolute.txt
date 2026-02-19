@@ -1,0 +1,14 @@
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\bin\Debug\net10.0\Obfuscator.exe
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\bin\Debug\net10.0\Obfuscator.deps.json
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\bin\Debug\net10.0\Obfuscator.runtimeconfig.json
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\bin\Debug\net10.0\Obfuscator.dll
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\bin\Debug\net10.0\Obfuscator.pdb
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\obj\Debug\net10.0\Obfuscator.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\obj\Debug\net10.0\Obfuscator.AssemblyInfoInputs.cache
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\obj\Debug\net10.0\Obfuscator.AssemblyInfo.cs
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\obj\Debug\net10.0\Obfuscator.csproj.CoreCompileInputs.cache
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\obj\Debug\net10.0\Obfuscator.dll
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\obj\Debug\net10.0\refint\Obfuscator.dll
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\obj\Debug\net10.0\Obfuscator.pdb
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\obj\Debug\net10.0\Obfuscator.genruntimeconfig.cache
+D:\ИСОБ\ЛАБ7\Obfuscator\Obfuscator\Obfuscator\obj\Debug\net10.0\ref\Obfuscator.dll

@@ -1,0 +1,11 @@
+D:\ИСОБ\ЛАБ3\Kerberos\Kerberos.Common\bin\Debug\net9.0\Kerberos.Common.deps.json
+D:\ИСОБ\ЛАБ3\Kerberos\Kerberos.Common\bin\Debug\net9.0\Kerberos.Common.dll
+D:\ИСОБ\ЛАБ3\Kerberos\Kerberos.Common\bin\Debug\net9.0\Kerberos.Common.pdb
+D:\ИСОБ\ЛАБ3\Kerberos\Kerberos.Common\obj\Debug\net9.0\Kerberos.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИСОБ\ЛАБ3\Kerberos\Kerberos.Common\obj\Debug\net9.0\Kerberos.Common.AssemblyInfoInputs.cache
+D:\ИСОБ\ЛАБ3\Kerberos\Kerberos.Common\obj\Debug\net9.0\Kerberos.Common.AssemblyInfo.cs
+D:\ИСОБ\ЛАБ3\Kerberos\Kerberos.Common\obj\Debug\net9.0\Kerberos.Common.csproj.CoreCompileInputs.cache
+D:\ИСОБ\ЛАБ3\Kerberos\Kerberos.Common\obj\Debug\net9.0\Kerberos.Common.dll
+D:\ИСОБ\ЛАБ3\Kerberos\Kerberos.Common\obj\Debug\net9.0\refint\Kerberos.Common.dll
+D:\ИСОБ\ЛАБ3\Kerberos\Kerberos.Common\obj\Debug\net9.0\Kerberos.Common.pdb
+D:\ИСОБ\ЛАБ3\Kerberos\Kerberos.Common\obj\Debug\net9.0\ref\Kerberos.Common.dll

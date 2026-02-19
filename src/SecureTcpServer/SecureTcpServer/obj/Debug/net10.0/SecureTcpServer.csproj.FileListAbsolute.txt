@@ -1,0 +1,14 @@
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\bin\Debug\net10.0\SecureTcpServer.exe
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\bin\Debug\net10.0\SecureTcpServer.deps.json
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\bin\Debug\net10.0\SecureTcpServer.runtimeconfig.json
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\bin\Debug\net10.0\SecureTcpServer.dll
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\bin\Debug\net10.0\SecureTcpServer.pdb
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\obj\Debug\net10.0\SecureTcpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\obj\Debug\net10.0\SecureTcpServer.AssemblyInfoInputs.cache
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\obj\Debug\net10.0\SecureTcpServer.AssemblyInfo.cs
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\obj\Debug\net10.0\SecureTcpServer.csproj.CoreCompileInputs.cache
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\obj\Debug\net10.0\SecureTcpServer.dll
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\obj\Debug\net10.0\refint\SecureTcpServer.dll
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\obj\Debug\net10.0\SecureTcpServer.pdb
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\obj\Debug\net10.0\SecureTcpServer.genruntimeconfig.cache
+D:\ИСОБ\ЛАБ4\SecureTcpServer\SecureTcpServer\obj\Debug\net10.0\ref\SecureTcpServer.dll
